@@ -2,7 +2,7 @@ Go to:
 
 Preferences > Package Settings > Package Control > Settings – User
 
-Example:
+Add:
 
 "channels":
 	[
